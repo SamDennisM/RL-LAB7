@@ -1,4 +1,4 @@
-```md
+
 <p align="center">
   <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/100/000000/artificial-intelligence.png" width="110"/>
 </p>
